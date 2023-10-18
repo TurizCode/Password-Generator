@@ -62,6 +62,8 @@ function generatePassword() {
         password += x;
     }
 
+    if(len < 5) {return;}
+    
     pwEl.innerText = password;
 }
 
