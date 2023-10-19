@@ -3,7 +3,7 @@ This project is a part of individual task from Harisenin's Full-Stack Developmen
 
 # Individual Task 2 - Implementing JavaScript
 
-Made a fully functionable yet fancy "password generator" using Vanilla HTML, CSS, and JavaScript that I have synergized. <br />
+Made a fully functionable yet fancy **`Password Generator`** using Vanilla HTML, CSS, and JavaScript that I have synergized. <br />
 Here is the implementation regarding the JavaScript that I have learned from the class: 
 - DOM
 - Function
